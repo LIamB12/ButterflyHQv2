@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ButterflyHQv2/static/css/main.b8936654.css",
-    "main.js": "/ButterflyHQv2/static/js/main.abfea715.js",
+    "main.css": "/ButterflyHQv2/static/css/main.96c6e009.css",
+    "main.js": "/ButterflyHQv2/static/js/main.d1037516.js",
     "static/media/cal.png": "/ButterflyHQv2/static/media/cal.b0bdcd13caa82cf7994f.png",
     "static/media/logo.png": "/ButterflyHQv2/static/media/logo.733ccc293bb63e92ba48.png",
     "static/media/3135715.png": "/ButterflyHQv2/static/media/3135715.5faf09a7795d28bf5a2b.png",
@@ -10,11 +10,11 @@
     "static/media/computer.png": "/ButterflyHQv2/static/media/computer.7bd0fb10c0fdaf1ba91f.png",
     "static/media/bell-icon-transparent-notification-free-png.webp": "/ButterflyHQv2/static/media/bell-icon-transparent-notification-free-png.7897c54763c89f24a1c4.webp",
     "index.html": "/ButterflyHQv2/index.html",
-    "main.b8936654.css.map": "/ButterflyHQv2/static/css/main.b8936654.css.map",
-    "main.abfea715.js.map": "/ButterflyHQv2/static/js/main.abfea715.js.map"
+    "main.96c6e009.css.map": "/ButterflyHQv2/static/css/main.96c6e009.css.map",
+    "main.d1037516.js.map": "/ButterflyHQv2/static/js/main.d1037516.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8936654.css",
-    "static/js/main.abfea715.js"
+    "static/css/main.96c6e009.css",
+    "static/js/main.d1037516.js"
   ]
 }
