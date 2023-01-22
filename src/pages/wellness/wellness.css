@@ -1,0 +1,10 @@
+.survey_cont {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.survey_cont input {
+    width: 50px
+}
