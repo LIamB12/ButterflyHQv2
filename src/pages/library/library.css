@@ -1,0 +1,12 @@
+.outer_card {
+    width: 60%;
+    border: solid 1px black;
+    box-shadow: 7px 7px 0 rgb(175, 175, 175);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    background-color: white;
+
+}
+

@@ -1,0 +1,8 @@
+.q_box {
+    border: solid 3px lightgrey;
+    padding: 10px;
+    min-height: 160px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px
+}

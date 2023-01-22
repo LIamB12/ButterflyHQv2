@@ -1,0 +1,17 @@
+.event_outer {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+}
+
+.event_outer h1 {
+    padding-left: 10px;
+}
+
+.event_outer img {
+    max-width: 100%;
+}

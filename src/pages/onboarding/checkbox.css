@@ -1,0 +1,21 @@
+.check_cont input {
+    width: 60px;
+    height: 60px;
+    border: solid 2px black;
+    box-shadow: 2px 2px 0 grey;
+    cursor: pointer;
+}
+
+.check_cont {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    background-color: white;
+    box-shadow: 5px 5px 0 grey;
+    padding: 20px
+}
+
+.check_cont h1 {
+    font-weight: 400;
+    font-size: 25px;
+}
