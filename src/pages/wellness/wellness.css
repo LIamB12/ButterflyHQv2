@@ -8,3 +8,10 @@
 .survey_cont input {
     width: 50px
 }
+
+.survey_cont button {
+    padding: 10px;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 5px;
+}
