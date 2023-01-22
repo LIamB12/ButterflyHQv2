@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ButterflyHQ/static/css/main.b8936654.css",
+    "main.js": "/ButterflyHQ/static/js/main.e179b2a1.js",
+    "static/media/cal.png": "/ButterflyHQ/static/media/cal.b0bdcd13caa82cf7994f.png",
+    "static/media/logo.png": "/ButterflyHQ/static/media/logo.733ccc293bb63e92ba48.png",
+    "static/media/3135715.png": "/ButterflyHQ/static/media/3135715.5faf09a7795d28bf5a2b.png",
+    "static/media/clock.png": "/ButterflyHQ/static/media/clock.45b0736b20ad251e6cdb.png",
+    "static/media/todos.png": "/ButterflyHQ/static/media/todos.bc68490ffbf71ad05674.png",
+    "static/media/computer.png": "/ButterflyHQ/static/media/computer.7bd0fb10c0fdaf1ba91f.png",
+    "static/media/bell-icon-transparent-notification-free-png.webp": "/ButterflyHQ/static/media/bell-icon-transparent-notification-free-png.7897c54763c89f24a1c4.webp",
+    "index.html": "/ButterflyHQ/index.html",
+    "main.b8936654.css.map": "/ButterflyHQ/static/css/main.b8936654.css.map",
+    "main.e179b2a1.js.map": "/ButterflyHQ/static/js/main.e179b2a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8936654.css",
+    "static/js/main.e179b2a1.js"
+  ]
+}
